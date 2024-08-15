@@ -12,7 +12,7 @@ A basic Android calculator application that supports essential arithmetic operat
 
 ## Screenshots
 
-![Calculator Screenshot](screenshot.png)
+<img src="1.png" width="250px"/>
 
 
 ## Installation
