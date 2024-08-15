@@ -14,13 +14,14 @@ A basic Android calculator application that supports essential arithmetic operat
 
 ![Calculator Screenshot](screenshot.png)
 
+
 ## Installation
 
 To run the SimpleCalculator app, follow these steps:
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/samyak2403/SimpleCalculator.git
+    https://github.com/samyak2403/Calculator-App.git
     ```
 2. Open the project in Android Studio.
 3. Build the project and run it on an Android device or emulator.
