@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator" />
+
+
+    <style name="operatorbutton" parent="commonbutton">
+
+        <item name="android:textColor">@color/btnBackground2</item>
+
+    </style>
+
+    <style name="digitbutton" parent="commonbutton">
+
+
+        <item name="android:textColor">@color/black</item>
+
+    </style>
+
+
+    <style name="commonbutton" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="cornerRadius">36dp</item>
+        <item name="backgroundTint">@color/white</item>
+        <item name="android:textSize">32dp</item>
+        <item name="android:layout_margin">12dp</item>
+
+
+    </style>
+</resources>
