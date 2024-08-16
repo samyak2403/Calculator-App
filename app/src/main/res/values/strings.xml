@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Calculator</string>
-    <string name="admob_banner_id">ca-app-pub-3940256099942544/9214589741</string>
+
+    <string name="admob_banner_id">ca-app-pub-8101125011869979/9699101161</string>
     <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_rewarded_interstitial_id">ca-app-pub-8101125011869979/8849888076</string>
 </resources>
