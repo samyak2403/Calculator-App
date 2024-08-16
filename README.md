@@ -4,9 +4,9 @@ A basic Android calculator application that supports essential arithmetic operat
 
 <img src="https://github.com/samyak2403/Calculator-App/blob/master/app/src/main/res/drawable/mathematics.png" width="100px"/>
 
-![pv](https://pageview.vercel.app/?github_user=IPTVmine)
+![pv](https://pageview.vercel.app/?github_user=Calculator-App)
 ## 📲 Download the APK:
-# Indian IPTVmine App
+# Calculator App
 <a href="https://github.com/samyak2403/Calculator-App/raw/master/app/release/app-release.apk">
   <img src="https://github.com/user-attachments/assets/a0c5dcca-d0dc-477b-b864-98c13e12d15d" alt="Download Love Calculator APK" style="width: 300px; height: auto;">
 </a>
