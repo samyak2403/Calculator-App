@@ -204,7 +204,7 @@ class MainActivity : AppCompatActivity() {
 
                 // Display the result
                 binding.resultTv.visibility = View.VISIBLE
-                binding.resultTv.text = "=" + result.toString()
+                binding.resultTv.text = "" + result.toString()
             } catch (ex: ArithmeticException) {
                 // Handle any arithmetic errors during evaluation
                 Log.e("Evaluate error", ex.toString())
